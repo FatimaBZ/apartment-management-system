@@ -113,6 +113,11 @@ nav .fa{
 
 
 /*---------Service-----*/
+.divider{
+    width:50px;
+    height: auto;
+    display:inline-block;
+}
 .adminheader.adminservice{
     width: 80%;
     margin: auto;
@@ -141,7 +146,7 @@ nav .fa{
 .adminheader.service-col{
     flex-basis: 31%;
     background: #fff3f3;
-    border-radius: 10px;
+    border-radius: 16px;
     margin-bottom: 5%;
     padding: 20px 12px;
     box-sizing: border-box;

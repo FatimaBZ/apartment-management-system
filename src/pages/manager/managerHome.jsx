@@ -19,6 +19,7 @@ export default function ManagerHome() {
               </a>
             </h3>
           </div>
+          <div class="divider"/>
           <div className="service-col">
             <h3>
               <a href="/manager_owner_crud">
@@ -26,6 +27,7 @@ export default function ManagerHome() {
               </a>
             </h3>
           </div>
+          <div class="divider"/>
           <div className="service-col" id="validate">
             <h3>
               <a href="/manager_garden">
@@ -33,6 +35,7 @@ export default function ManagerHome() {
               </a>
             </h3>
           </div>
+          <div class="divider"/>
           <div className="service-col" id="validate">
             <h3>
               <a href="/manager_visitor">

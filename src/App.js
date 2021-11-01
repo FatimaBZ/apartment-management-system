@@ -61,7 +61,7 @@ function App() {
         <Route exact path="/">
           <Home />
         </Route>
-        <Route exact path="/wdm-assignment-phase3/">
+        <Route exact path="/wdm-phase3/">
           <Home />
         </Route>
         

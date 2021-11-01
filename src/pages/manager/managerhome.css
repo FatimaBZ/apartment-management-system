@@ -138,7 +138,11 @@ nav .fa{
     line-height: 22px;
     padding: 10px;
 }
-
+.divider{
+    width:50px;
+    height:auto;
+    display:inline-block;
+}
 .managerheader.row{
     margin-top: 5%;
     display: flex;

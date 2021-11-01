@@ -19,6 +19,7 @@ export default function AdminHome() {
               </a>
             </h3>
           </div>
+          <div class="divider"/>
           <div className="service-col">
             <h3>
               <a className="btn btn-link" href="/admin_building_crud">
@@ -26,6 +27,7 @@ export default function AdminHome() {
               </a>
             </h3>
           </div>
+          <div class="divider"/>
           <div className="service-col">
             <h3>
               <a href="/admin_owner_crud">
@@ -33,6 +35,7 @@ export default function AdminHome() {
               </a>
             </h3>
           </div>
+          <div class="divider"/>
           <div className="service-col" id="validate">
             <h3>
               <a href="/admin_garden_crud">
@@ -40,6 +43,7 @@ export default function AdminHome() {
               </a>
             </h3>
           </div>
+          <div class="divider"/>
           <div className="service-col" id="validate">
             <h3>
               <a href="/admin_visitor_crud">
